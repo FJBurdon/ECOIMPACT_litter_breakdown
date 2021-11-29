@@ -1,0 +1,42 @@
+Tab EcoImpact Comparison Land use data;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Christian Stamm, 16.11.2020;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"Rationale: Different EcoImpact publications provide different land use data; this table provides a compilation across the papers to get an overview";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Burdon_16: Burdon et al. 2016: Environmental context and magnitude of disturbance influence trait-mediated community responses to wastewater in streams, Ecology and Evolution, 6(12), 3923-3939 (file: ece32165-sup-0001-appendixa-c.docx);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Munz_17: Munz et al., 2017: Pesticides drive risk of micropollutants in wastewater-impacted streams during low flow conditions, Water Research, 110, 366-377 (file: Munz_2017_SI.docx);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Burdon_19: Burdon et al. 2019: Agriculture versus wastewater pollution as drivers of macroinvertebrate community structure in streams, Science of the Total Environment, 659, 1256-1265;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Burdon_20: Burdon et al., 2020: Stream microbial communities and ecosystem functioning show complex responses to multiple stressors in wastewater, Global Change Biology, 26(11), 6363-6382;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Burdon_Leaflitter_draft;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Site: EcoImpact study site;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Year: Year of the field campaign;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Catchment: Area of the hydrological catchment [km2];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Arable: Areal fraction of arable land in the catchment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pasture: Areal fraction of pasture land in the catchment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Forest: Areal fraction of forest in the catchment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Urban: Areal fraction of urban areas in the catchment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Orchards: Areal fraction of orchards in the catchment;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;Burdon_16;;;;;;Munz_17;;;;;;Burdon_19;;;;;;Burdon_20;;;;;;Burdon_Leaflitter_draft;;;;;
+Site ID;Site;Year;Catchment area ;Arable;Pasture;Forest;Urban;Orchards;Catchment area [km2];Arable;Pasture;Forest;Urban;Orchards;Catchment area ;Arable;Pasture;Forest;Urban;Orchards;Catchment area ;Arable;Pasture;Forest;Urban;Orchards;Catchment area ;Arable;Pasture;Forest;Urban;Orchards
+1;Buttisholz;2013;16.74;0.46;0.34;0.15;0.08;0.001;6.8;0.42;0.32;0.11;0.14;NA;6.8;0.42;0.32;0.11;0.14;0.04;16.74;0.46;0.34;0.15;0.08;0.00;16.74;0.46;0.34;0.15;0.08;0.001
+2;Colombier;2013;7.63;0.45;0.05;0.09;0.08;0.016;11.8;0.81;0.04;0.07;0.08;NA;11.8;0.81;0.04;0.07;0.08;0.01;7.63;0.45;0.05;0.09;0.08;0.02;7.63;0.45;0.05;0.09;0.08;0.016
+3;Dürnten;2013;10.87;0.22;0.43;0.11;0.2;0.002;17.4;0.16;0.44;0.17;0.21;NA;17.4;0.16;0.44;0.17;0.21;0.02;10.87;0.22;0.43;0.11;0.20;0.00;10.87;0.22;0.43;0.11;0.2;0.002
+4;Herisau;2013;39.9;0;0.52;0.29;0.12;0;16.3;0.008;0.54;0.24;0.2;NA;16.3;0.008;0.54;0.24;0.2;0.01;39.90;0.00;0.52;0.29;0.12;0.00;39.9;0;0.52;0.29;0.12;0
+5;Hochdorf;2013;49.46;0.38;0.35;0.14;0.1;0.011;28.1;0.47;0.26;0.13;0.14;NA;28.1;0.47;0.26;0.13;0.14;0.04;49.46;0.38;0.35;0.14;0.10;0.01;49.46;0.38;0.35;0.14;0.1;0.011
+6;Hornussen;2013;29.28;0.27;0.25;0.39;0.09;0.013;37;0.29;0.2;0.43;0.08;NA;37;0.29;0.2;0.43;0.08;0.01;29.28;0.27;0.25;0.39;0.09;0.01;29.28;0.27;0.25;0.39;0.09;0.013
+7;Kernenried;2013;82.26;0.37;0.1;0.34;0.14;0;65.9;0.43;0.08;0.29;0.18;NA;65.9;0.43;0.08;0.29;0.18;0.02;82.26;0.37;0.10;0.34;0.14;0.00;82.26;0.37;0.1;0.34;0.14;0
+8;Messen;2013;50.71;0.52;0.14;0.24;0.07;0.001;37.4;0.5;0.11;0.32;0.07;NA;37.4;0.5;0.11;0.32;0.07;0.02;50.71;0.52;0.14;0.24;0.07;0.00;50.71;0.52;0.14;0.24;0.07;0.001
+9;Niederdorf;2013;18.89;0.1;0.28;0.46;0.1;0.002;25.1;0.12;0.33;0.46;0.08;NA;25.1;0.12;0.33;0.46;0.08;0.03;18.89;0.10;0.28;0.46;0.10;0.00;18.89;0.1;0.28;0.46;0.1;0.002
+10;Romont;2013;98.65;0.18;0.6;0.16;0.08;0.001;47.6;0.35;0.39;0.16;0.1;NA;47.6;0.35;0.39;0.16;0.1;0.01;98.65;0.18;0.60;0.16;0.08;0.00;98.65;0.18;0.6;0.16;0.08;0.001
+11;Rothenturm;2013;22.8;0;0.3;0.45;0.04;0;7.4;0.001;0.47;0.46;0.06;NA;7.4;0.001;0.47;0.46;0.06;0.00;22.80;0.00;0.30;0.45;0.04;0.00;22.8;0;0.3;0.45;0.04;0
+12;Sévery;2013;13.47;0.48;0.11;0.31;0.05;0;7.2;0.32;0.1;0.52;0.06;NA;7.2;0.32;0.1;0.52;0.06;0.00;13.47;0.48;0.11;0.31;0.05;0.00;13.47;0.48;0.11;0.31;0.05;0
+13;Aadorf;2014;NA;NA;NA;NA;NA;NA;35;0.16;0.32;0.36;0.14;NA;35;0.16;0.32;0.36;0.14;0.01;45.08;0.21;0.29;0.29;0.14;0.00;NA;NA;NA;NA;NA;NA
+14;Birmensdorf;2014;NA;NA;NA;NA;NA;NA;46.7;0.22;0.21;0.38;0.16;NA;46.7;0.22;0.21;0.38;0.16;0.01;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+15;Elgg;2014;NA;NA;NA;NA;NA;NA;13.3;0.27;0.19;0.41;0.13;NA;13.3;0.27;0.19;0.41;0.13;0.01;15.30;0.24;0.16;0.41;0.11;0.00;15.3;0.24;0.16;0.41;0.11;0.001
+16;Ellikon;2014;NA;NA;NA;NA;NA;NA;24.1;0.55;0.11;0.19;0.14;NA;24.1;0.55;0.11;0.19;0.14;0.02;27.74;0.55;0.13;0.18;0.13;0.01;27.74;0.55;0.13;0.18;0.13;0.009
+17;Knonau;2014;NA;NA;NA;NA;NA;NA;16.6;0.41;0.24;0.2;0.14;NA;16.6;0.41;0.24;0.2;0.14;0.01;23.63;0.40;0.32;0.16;0.14;0.01;23.63;0.4;0.32;0.16;0.14;0.006
+18;Marthalen;2014;NA;NA;NA;NA;NA;NA;26.5;0.54;0.1;0.21;0.13;NA;26.5;0.54;0.1;0.21;0.13;0.01;32.43;0.46;0.09;0.34;0.10;0.01;32.43;0.46;0.09;0.34;0.1;0.013
+19;Muri;2014;NA;NA;NA;NA;NA;NA;15.5;0.43;0.23;0.19;0.15;NA;15.5;0.43;0.23;0.19;0.15;0.02;20.21;0.38;0.19;0.19;0.15;0.00;20.21;0.38;0.19;0.19;0.15;0.004
+20;Reinach;2014;NA;NA;NA;NA;NA;NA;43.6;0.44;0.2;0.2;0.15;NA;43.6;0.44;0.2;0.2;0.15;0.02;78.03;0.37;0.22;0.21;0.12;0.00;78.03;0.37;0.22;0.21;0.12;0.002
+21;Unterehrendingen;2014;NA;NA;NA;NA;NA;NA;30.3;0.39;0.2;0.27;0.14;NA;30.3;0.39;0.2;0.27;0.14;0.02;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+22;Val-de-Ruz;2014;NA;NA;NA;NA;NA;NA;63.7;0.17;0.34;0.43;0.05;NA;63.7;0.17;0.34;0.43;0.05;0.00;83.69;0.22;0.20;0.35;0.06;0.00;83.69;0.22;0.2;0.35;0.06;0
+23;Villeret;2014;NA;NA;NA;NA;NA;NA;63;0.05;0.48;0.4;0.07;NA;63;0.05;0.48;0.4;0.07;0.00;76.88;0.07;0.39;0.30;0.06;0.00;76.88;0.07;0.39;0.3;0.06;0
+24;Zullwil;2014;NA;NA;NA;NA;NA;NA;7.1;0.07;0.39;0.45;0.09;NA;7.1;0.07;0.39;0.45;0.09;0.04;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA

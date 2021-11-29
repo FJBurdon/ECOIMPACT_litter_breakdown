@@ -1,0 +1,73 @@
+Site_code,Site,Location,LPA_in,LPA_out,DD,Remarks
+AAD,Aadorf,DS,,,,no experiment performed
+AAD,Aadorf,US1,,,,no experiment performed
+AAD,Aadorf,US2,,,,no experiment performed
+BIR,Birmensdorf,DS,,,,no experiment performed
+BIR,Birmensdorf,US1,,,,no experiment performed
+BIR,Birmensdorf,US2,,,,no experiment performed
+ELG,Elgg,DS,2014-11-05,2014-11-25,204.4,
+ELG,Elgg,US1,2014-11-05,2014-11-25,176.2,
+ELG,Elgg,US2,2014-11-05,2014-11-25,176.2,
+ELL,Ellikon,DS,2014-11-05,2014-11-25,237,
+ELL,Ellikon,US1,2014-11-05,2014-11-25,204.6,
+ELL,Ellikon,US2,2014-11-05,2014-11-25,204.6,
+KNO,Konau,DS,2014-11-06,2014-11-26,214.5,
+KNO,Konau,US1,2014-11-06,2014-11-26,201.8,
+KNO,Konau,US2,2014-11-06,2014-11-26,201.8,
+MAR,Marthalen,DS,2014-11-05,2014-11-25,202.3,no data available --> estimated from US1 measurements
+MAR,Marthalen,US1,2014-11-05,2014-11-25,199.6,
+MAR,Marthalen,US2,2014-11-05,2014-11-25,199.6,
+MUR,Muri,DS,2014-11-06,2014-11-26,178,The Excel file AAA_overview as well as a comparison between the US1 and DS data indicate that this dataset is faulty.
+MUR,Muri,US1,2014-11-06,2014-11-26,172.4,
+MUR,Muri,US2,2014-11-06,2014-11-26,172.4,
+REI,Reinach,DS,2014-11-06,2014-11-26,278.1,"no data available --> estimated from US1 measurements using a linear regression. BUT: A comparison between the US1 and DS data indicates that the US1 data are faulty after 11.07.2014. Therefore, the estimation is unreliable."
+REI,Reinach,US1,2014-11-06,2014-11-26,185.5,A comparison between the US1 and DS data indicates that the US1 data are faulty after 11.07.2014.
+REI,Reinach,US2,2014-11-06,2014-11-26,185.5,
+VAL,ValdeRuz,DS,2014-11-10,2014-12-02,217.7,no data available --> estimated from US1 measurements using a linear regression
+VAL,ValdeRuz,US1,2014-11-10,2014-12-02,199,
+VAL,ValdeRuz,US2,2014-11-10,2014-12-02,199,
+UNT,Unterehrendingen,DS,,,,no experiment performed
+UNT,Unterehrendingen,US1,,,,no experiment performed
+UNT,Unterehrendingen,US2,,,,no experiment performed
+VIL,Villeret,DS,2014-11-10,2014-12-02,179.2,
+VIL,Villeret,US1,2014-11-10,2014-12-02,169.3,
+VIL,Villeret,US2,2014-11-10,2014-12-02,169.3,
+ZUL,Zullwil,DS,,,,no experiment performed
+ZUL,Zullwil,US1,,,,no experiment performed
+ZUL,Zullwil,US2,,,,no experiment performed
+BUT,Buttisholz ,DS,2013-11-05,2013-12-18,317.8,Calculations Marta
+BUT,Buttisholz ,US1,2013-11-05,2013-12-18,278.6,Calculations Marta
+BUT,Buttisholz ,US2,2013-11-05,2013-12-18,289.4,Calculations Marta
+COL,Colombier ,DS,2013-11-12,2013-12-17,201.8,"Calculations Marta, no data available --> estimated from US2 measurements using a linear regression"
+COL,Colombier ,US1,2013-11-12,2013-12-17,202.2,Calculations Marta
+COL,Colombier ,US2,2013-11-12,2013-12-17,200.6,Calculations Marta
+DUR,Duernten,DS,2013-11-04,2013-12-16,298.3,Calculations Marta
+DUR,Duernten,US1,2013-11-04,2013-12-16,277,Calculations Marta
+DUR,Duernten,US2,2013-11-04,2013-12-16,287.2,Calculations Marta
+HER,Herisau ,DS,2013-11-04,2013-12-16,295.3,Calculations Marta
+HER,Herisau ,US1,2013-11-04,2013-12-16,243.3,Calculations Marta
+HER,Herisau ,US2,2013-11-04,2013-12-16,254.6,"Calculations Marta, no data available --> estimated from DS measurements using a linear regression"
+HOC,Hochdorf ,DS,2013-11-07,2013-12-09,238.3,"Calculations Marta, no data available --> estimated from US2 measurements using a linear regression"
+HOC,Hochdorf,US1,2013-11-07,2013-12-09,224.7,Calculations Marta
+HOC,Hochdorf ,US2,2013-11-07,2013-12-09,232.9,Calculations Marta
+HOR,Hornussen ,DS,2013-11-05,2013-12-19,350,Calculations Marta
+HOR,Hornussen ,US1,2013-11-05,2013-12-19,309.2,Calculations Marta
+HOR,Hornussen ,US2,2013-11-05,2013-12-19,324.3,Calculations Marta
+KER,Kernenried ,DS,2013-11-07,2013-12-11,285,Calculations Marta
+KER,Kernenried ,US1,2013-11-07,2013-12-11,259.6,Calculations Marta
+KER,Kernenried ,US2,2013-11-07,2013-12-11,258.3,Calculations Marta
+MES,Messen,DS,2013-11-29,2014-01-08,184.7,Calculations Marta
+MES,Messen,US1,2013-11-29,2014-01-08,193.8,"Calculations Marta, no data available --> estimated from US2 measurements using a linear regression"
+MES,Messen,US2,2013-11-29,2014-01-08,184.8,Calculations Marta
+NIE,Niederdorf ,DS,2013-11-05,2013-12-11,279.8,Calculations Marta
+NIE,Niederdorf ,US1,2013-11-05,2013-12-11,277.6,Calculations Marta
+NIE,Niederdorf ,US2,2013-11-05,2013-12-11,278.6,Calculations Marta
+ROM,Romont ,DS,2013-11-12,2013-12-17,208.4,Calculations Marta
+ROM,Romont ,US1,2013-11-12,2013-12-17,189,Calculations Marta
+ROM,Romont ,US2,2013-11-12,2013-12-17,189.7,Calculations Marta
+ROT,Rothenturm ,DS,2013-11-07,2013-12-16,171.7,Calculations Marta
+ROT,Rothenturm ,US1,2013-11-07,2013-12-16,155.2,Calculations Marta
+ROT,Rothenturm ,US2,2013-11-07,2013-12-16,155.2,"Calculations Marta, no data available --> estimated from US1 measurements using a linear regression"
+SEV,Severy ,DS,2013-11-12,2013-12-17,220,Calculations Marta
+SEV,Severy ,US1,2013-11-12,2013-12-17,202.5,Calculations Marta
+SEV,Severy ,US2,2013-11-12,2013-12-17,197.1,Calculations Marta

@@ -7,4 +7,4 @@ The files are structured as follows:
 2. `2_Change` Data and Rscripts for testing the influence of wastewater pollution on litter decomposition
 3. `3_Context` Data and Rscripts for testing context dependent change (i.e., effect sizes and plots)
 4. `4_Sem` Data and Rscripts for structural equation models 
-5. `5_Sankey` Data and Rscripts for the Sankey diagram provided in the SI 
+5. `5_Sankey` Data and Rscripts for the Sankey diagram provided in the Supporting Information 

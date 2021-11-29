@@ -4,7 +4,7 @@ Data and code for the manuscript: Burdon et al. *Environmental context determine
 
 The files are structured as follows:
 
-1. `1_Data_preparation` Raw data and Rscripts used to generate data used in subsequent analyses. Also has leafpack invertebrate analyses.
+1. `1_Data_preparation` Raw data and Rscripts used to generate leafpack breakdown data used in subsequent analyses.
 2. `2_Change` Data and Rscripts for testing the influence of wastewater pollution on litter decomposition
 3. `3_Context` Data and Rscripts for testing context dependent change (i.e., effect sizes and plots)
 4. `4_Sem` Data and Rscripts for structural equation models 

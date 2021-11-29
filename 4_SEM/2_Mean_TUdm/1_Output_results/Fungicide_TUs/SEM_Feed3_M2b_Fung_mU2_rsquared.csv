@@ -1,0 +1,7 @@
+"","Response","family","link","method","Marginal","Conditional"
+"1","Kdd_alder","gaussian","identity","none",0.254152001576216,0.679562760970801
+"2","Feeding_3","gaussian","identity","none",0.220820331830359,0.683274069397827
+"3","SRP","gaussian","identity","none",0.43579443776065,0.673326435819365
+"4","Insecticide_TUs","gaussian","identity","none",0.495040783569673,0.667328822165018
+"5","Fungicide_TUs","gaussian","identity","none",0.24060609259281,0.729389800500421
+"6","DIN","gaussian","identity","none",0.789035350316877,0.895454535904591
